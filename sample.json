@@ -1,0 +1,338 @@
+[
+    {
+        "region": "None",
+        "state": "Maharashtra",
+        "numberplate": "MH12DE1433",
+        "time": "2022-09-01 20:03:22.554373",
+        "vehicle-of-building": "Yes",
+        "phone-number": "None"
+    },
+    {
+        "region": "None",
+        "state": "Maharashtra",
+        "numberplate": "MH12DE1433",
+        "time": "2022-09-01 20:09:28.786184",
+        "vehicle-of-building": "Yes",
+        "phone-number": "455553333"
+    },
+    {
+        "region": "MH",
+        "state": "Maharashtra",
+        "numberplate": "MH40BE2665",
+        "time": "2022-09-01 20:13:09.723508",
+        "vehicle-of-building": "No",
+        "phone-number": "None"
+    },
+    {
+        "region": "MH",
+        "state": "Maharashtra",
+        "numberplate": "MH40BE2665",
+        "time": "2022-09-01 20:12:09.723508",
+        "vehicle-of-building": "No",
+        "phone-number": "None"
+    },
+    {
+        "region": "DL",
+        "state": "Delhi",
+        "numberplate": "DL94332323",
+        "time": "2022-09-01 20:17:09.723508",
+        "vehicle-of-building": "No",
+        "phone-number": "None"
+    },
+    {
+        "region": "MH",
+        "state": "Maharashtra",
+        "numberplate": "MH12DE1433",
+        "time": "2022-09-02 00:00:28.417632",
+        "vehicle-of-building": "No",
+        "phone-number": "None"
+    },
+    {
+        "region": "None",
+        "state": "None",
+        "numberplate": "MH12DE1433",
+        "time": null,
+        "vehicle-of-building": "Yes",
+        "phone-number": "455553333"
+    },
+    {
+        "region": "MH",
+        "state": "Maharashtra",
+        "numberplate": "MH12DE1433",
+        "time": "2022-09-02 00:20:45.137848",
+        "vehicle-of-building": "Yes",
+        "phone-number": "455553333"
+    },
+    {
+        "region": "MH",
+        "state": "Maharashtra",
+        "numberplate": "MH12DE1433",
+        "time": "2022-09-02 00:27:07.155659",
+        "vehicle-of-building": "Yes",
+        "phone-number": "455553333"
+    },
+    {
+        "region": "MH",
+        "state": "Maharashtra",
+        "numberplate": "MH12DE1433",
+        "time": "2022-09-02 00:27:55.474816",
+        "vehicle-of-building": "Yes",
+        "phone-number": "455553333"
+    },
+    {
+        "region": "MH",
+        "state": "Maharashtra",
+        "numberplate": "MH40BE2665",
+        "time": "2022-09-02 00:28:41.638700",
+        "vehicle-of-building": "Yes",
+        "phone-number": "982342323"
+    },
+    {
+        "region": "HR",
+        "state": "Harayana",
+        "numberplate": "HR26AY0731",
+        "time": "2022-09-02 00:29:53.720611",
+        "vehicle-of-building": "No",
+        "phone-number": "982342323"
+    },
+    {
+        "region": "MH",
+        "state": "Maharashtra",
+        "numberplate": "MH12DE1433",
+        "time": "2022-09-03 00:40:01.793693",
+        "vehicle-of-building": "Yes",
+        "phone-number": "455553333"
+    },
+    {
+        "region": "MH",
+        "state": "Maharashtra",
+        "numberplate": "MH12DE1433",
+        "time": "2022-09-03 00:40:33.057234",
+        "vehicle-of-building": "Yes",
+        "phone-number": "455553333"
+    },
+    {
+        "region": "MH",
+        "state": "Maharashtra",
+        "numberplate": "MH40BE2665",
+        "time": "2022-09-04 02:08:51.941756",
+        "vehicle-of-building": "Yes",
+        "phone-number": "982342323"
+    },
+    {
+        "region": "MH",
+        "state": "Maharashtra",
+        "numberplate": "MH40BE2665",
+        "time": "2022-09-07 20:31:22.416222",
+        "vehicle-of-building": "Yes",
+        "phone-number": "982342323"
+    },
+    {
+        "region": "MH",
+        "state": "Mumbai",
+        "numberplate": "MH12DE1433",
+        "time": "2022-09-07 20:40:28.709179",
+        "vehicle-of-building": "Yes",
+        "phone-number": "8754234856"
+    },
+    {
+        "region": "MH",
+        "state": "Maharashtra",
+        "numberplate": "MH40BE2665",
+        "time": "2022-09-07 20:41:41.340387",
+        "vehicle-of-building": "Yes",
+        "phone-number": "982342323"
+    },
+    {
+        "region": "MH",
+        "state": "Maharashtra",
+        "numberplate": "MH12DE1433",
+        "time": "2022-09-07 20:46:56.339553",
+        "vehicle-of-building": "Yes",
+        "phone-number": "8754234856"
+    },
+    {
+        "region": "MH",
+        "state": "Maharashtra",
+        "numberplate": "MH12DE1433",
+        "time": "2022-09-08 02:19:39.250307",
+        "vehicle-of-building": "Yes",
+        "phone-number": "8754234856"
+    },
+    {
+        "region": null,
+        "state": null,
+        "numberplate": "12NU731",
+        "time": "2023-05-16 01:51:04.312413",
+        "vehicle-of-building": "No",
+        "phone-number": null
+    },
+    {
+        "region": "MH",
+        "state": "Maharashtra",
+        "numberplate": "MH12NU7391",
+        "time": "2023-05-16 01:52:17.436658",
+        "vehicle-of-building": "No",
+        "phone-number": null
+    },
+    {
+        "region": "MH",
+        "state": "Maharashtra",
+        "numberplate": "HI2NU7391",
+        "time": "2023-05-16 01:54:44.784352",
+        "vehicle-of-building": "No",
+        "phone-number": null
+    },
+    {
+        "region": "MH",
+        "state": "Maharashtra",
+        "numberplate": "MH12NU7391",
+        "time": "2023-05-16 01:54:48.496944",
+        "vehicle-of-building": "No",
+        "phone-number": null
+    },
+    {
+        "region": "MH",
+        "state": "Maharashtra",
+        "numberplate": "MH12NU7391",
+        "time": "2023-05-16 01:58:53.691293",
+        "vehicle-of-building": "No",
+        "phone-number": null
+    },
+    {
+        "region": "MH",
+        "state": "Maharashtra",
+        "numberplate": "MH20DJ6626",
+        "time": "2023-05-16 01:59:14.391285",
+        "vehicle-of-building": "No",
+        "phone-number": null
+    },
+    {
+        "region": "MH",
+        "state": "Maharashtra",
+        "numberplate": "HI2FK7427",
+        "time": "2023-05-16 02:03:30.393536",
+        "vehicle-of-building": "No",
+        "phone-number": null
+    },
+    {
+        "region": "MH",
+        "state": "Maharashtra",
+        "numberplate": "HI2FK7427",
+        "time": "2023-05-16 02:03:48.215430",
+        "vehicle-of-building": "No",
+        "phone-number": null
+    },
+    {
+        "region": "MH",
+        "state": "Maharashtra",
+        "numberplate": "HH2FK7427",
+        "time": "2023-05-16 02:09:57.298197",
+        "vehicle-of-building": "No",
+        "phone-number": null
+    },
+    {
+        "region": "MH",
+        "state": "Maharashtra",
+        "numberplate": "HI2FK7427",
+        "time": "2023-05-16 02:10:10.222024",
+        "vehicle-of-building": "No",
+        "phone-number": null
+    },
+    {
+        "region": "MH",
+        "state": "Maharashtra",
+        "numberplate": "MI2FK7427",
+        "time": "2023-05-16 02:10:41.630295",
+        "vehicle-of-building": "No",
+        "phone-number": null
+    },
+    {
+        "region": "MH",
+        "state": "Maharashtra",
+        "numberplate": "MH12KE0724",
+        "time": "2023-05-16 02:13:35.423961",
+        "vehicle-of-building": "No",
+        "phone-number": null
+    },
+    {
+        "region": "MH",
+        "state": "Maharashtra",
+        "numberplate": "MH12KE0724",
+        "time": "2023-05-16 02:14:07.679390",
+        "vehicle-of-building": "No",
+        "phone-number": null
+    },
+    {
+        "region": "MH",
+        "state": "Maharashtra",
+        "numberplate": "MH12MF9822",
+        "time": "2023-05-27 12:59:11.903505",
+        "vehicle-of-building": "No",
+        "phone-number": null
+    },
+    {
+        "region": "MH",
+        "state": "Maharashtra",
+        "numberplate": "MH12MF9828",
+        "time": "2023-05-27 13:00:44.033092",
+        "vehicle-of-building": "No",
+        "phone-number": null
+    },
+    {
+        "region": "MH",
+        "state": "Maharashtra",
+        "numberplate": "MH12MF9828",
+        "time": "2023-05-27 13:01:50.609991",
+        "vehicle-of-building": "No",
+        "phone-number": null
+    },
+    {
+        "region": "MH",
+        "state": "Maharashtra",
+        "numberplate": "MH12MF9828",
+        "time": "2023-05-27 13:02:54.394090",
+        "vehicle-of-building": "No",
+        "phone-number": null
+    },
+    {
+        "region": "MH",
+        "state": "Maharashtra",
+        "numberplate": "MH12MF9828",
+        "time": "2023-05-27 13:02:56.788628",
+        "vehicle-of-building": "No",
+        "phone-number": null
+    },
+    {
+        "region": "MH",
+        "state": "Maharashtra",
+        "numberplate": "MH12MF9828",
+        "time": "2023-05-27 13:02:59.140272",
+        "vehicle-of-building": "No",
+        "phone-number": null
+    },
+    {
+        "region": "MH",
+        "state": "Maharashtra",
+        "numberplate": "MH12MF9828",
+        "time": "2023-05-27 13:03:00.283769",
+        "vehicle-of-building": "No",
+        "phone-number": null
+    },
+    {
+        "region": "MH",
+        "state": "Maharashtra",
+        "numberplate": "MH12MF9828",
+        "time": "2023-05-27 13:03:02.465666",
+        "vehicle-of-building": "No",
+        "phone-number": null
+    },
+    {
+        "region": "MH",
+        "state": "Maharashtra",
+        "numberplate": "MH12MF9828",
+        "time": "2023-05-27 13:03:04.384982",
+        "vehicle-of-building": "No",
+        "phone-number": null
+    }
+]

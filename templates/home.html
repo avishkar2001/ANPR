@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<link href='https://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet'>
+<style>
+    h1 {
+        text-align: center;
+        font-weight: bold;
+        color: white;
+        padding: 30px 10px;
+        background-color: #000000;
+        border-top-left-radius: 7px;
+        border-top-right-radius: 8px;
+    }
+
+    div {
+        text-align: center;
+    }
+
+    body {
+        font-family: Ubuntu;
+        background-color: #0d54ac;
+    }
+
+    .container {
+        background-color: #2a7dbb;
+        border-radius: 5px;
+    }
+
+    .p1 {
+        color: white;
+        font-size: 15px;
+        font-weight: bolder;
+        text-align: center;
+        background-color: #0d54ac;
+        margin-bottom: 15px;
+        padding-top: 20px;
+        padding-bottom: 0px;
+        text-shadow: 12px black;
+    }
+
+    p {
+        color: rgb(220, 219, 219);
+        font-size: 15px;
+        text-align: center;
+        margin-bottom: 5px;
+        margin-top: 0px;
+    }
+
+    .btn1 {
+        font-size: 16px;
+        font-family: Ubuntu;
+        border-radius: 4px;
+        font-weight: 200;
+        width: 200px;
+        background-color: #0076d1;
+        color: white;
+        border: outset 5px rgb(0, 0, 0);
+        padding: 16px 14px;
+        display: inline-block;
+        text-align: center;
+        text-decoration: none;
+    }
+
+    .instruction {
+        margin-top: 80px;
+        padding-bottom: 24px;
+        background-color: #000000;
+        border-bottom-left-radius: 10px;
+        border-bottom-right-radius: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+</style>
+
+<body>
+    <div class="container" height="70%">
+        <div class="row">
+            <div>
+                <h1 class="mt-5">AUTOMATIC NUMBERPLATE DETECTION AND PARKING SYSTEM</h1>
+                <img src="{{ url_for('video_feed') }}"
+                    style="border-radius: 12px; border: solid 5px #333333; width: 400px; height: 280px;">
+            </div>
+            <br></br>
+            <form method="post" action="/">
+                <button type="submit" name="enter" value="enter" class="btn1">
+                    Press to Click &nbsp; 📸
+                </button>
+                <br> </br>
+
+            </form>
+            <a href="/num">
+                <button class="btn1">
+                    Check Numberplate
+                </button>
+            </a>&nbsp&nbsp
+            <a href="/register">
+                <button class="btn1">
+                    Update Data
+                </button>
+            </a>
+            <br>
+            </br>
+            <a href="/all_veh">
+                <button class="btn1">
+                    Show all Numberplates
+                </button>
+            </a>&nbsp&nbsp
+            <a href="/reg_veh">
+                <button class="btn1">
+                    Show Reg. Vehicles
+                </button>
+            </a>
+
+            <div class="instruction">
+                <p class="p1"> INSTRUCTIONS </p>
+                <p> Project By :- Sanjana Kumbhar , Avishkar Gandhi, Atharva Vitekar</p>
+                <p> Guided By :- Prof. Ashwini Navghane.</p>
+                <p> Vishwakarma Institute of Information Technology, Pune (ENTC)</p>
+                <p> 1. Click on the first button to capture the image of the NumberPlate.Click only when the
+                    numberplate is
+                    detected. </p>
+                <p> 2. As soon as the image is captured, you can click the 2nd button, to check the details of
+                    the current numberplate.</p>
+                <p> 3. There are also option to update existing data and to show register numberplates and showing registered Vehicles.</p>
+                <!-- <p> To run the app type "localhost:1234" on the web browser</p> -->
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
